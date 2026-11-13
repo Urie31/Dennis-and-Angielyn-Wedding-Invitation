@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#5a3010"/>
+      <stop offset="100%" style="stop-color:#1a0e04"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <!-- Warm bokeh lights -->
+  <circle cx="150" cy="120" r="40" fill="rgba(201,168,76,0.12)"/>
+  <circle cx="650" cy="100" r="55" fill="rgba(201,168,76,0.1)"/>
+  <circle cx="400" cy="80" r="30" fill="rgba(201,168,76,0.09)"/>
+  <circle cx="720" cy="300" r="35" fill="rgba(201,168,76,0.08)"/>
+  <circle cx="80" cy="350" r="28" fill="rgba(201,168,76,0.08)"/>
+  <!-- Table -->
+  <rect x="280" y="380" width="240" height="12" rx="4" fill="rgba(201,168,76,0.2)"/>
+  <rect x="300" y="392" width="8" height="80" fill="rgba(201,168,76,0.15)"/>
+  <rect x="492" y="392" width="8" height="80" fill="rgba(201,168,76,0.15)"/>
+  <!-- Candle -->
+  <rect x="393" y="340" width="14" height="40" fill="rgba(201,168,76,0.25)"/>
+  <ellipse cx="400" cy="335" rx="8" ry="12" fill="rgba(255,200,80,0.4)"/>
+  <!-- Couple seated -->
+  <ellipse cx="310" cy="290" rx="34" ry="42" fill="rgba(201,168,76,0.18)"/>
+  <ellipse cx="490" cy="285" rx="32" ry="40" fill="rgba(201,168,76,0.16)"/>
+  <text x="400" y="510" font-family="Georgia,serif" font-size="18" fill="rgba(201,168,76,0.45)" text-anchor="middle" letter-spacing="4">FIRST DATE</text>
+  <text x="400" y="538" font-family="Arial,sans-serif" font-size="11" fill="rgba(201,168,76,0.25)" text-anchor="middle">story-02.jpg</text>
+</svg>

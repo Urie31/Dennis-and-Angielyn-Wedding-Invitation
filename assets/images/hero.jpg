@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3d2e0e"/>
+      <stop offset="40%" style="stop-color:#6b4f1a"/>
+      <stop offset="100%" style="stop-color:#1a1508"/>
+    </linearGradient>
+    <linearGradient id="overlay" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgba(201,168,76,0.08)"/>
+      <stop offset="100%" style="stop-color:rgba(0,0,0,0.5)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <rect width="1920" height="1080" fill="url(#overlay)"/>
+  <!-- Decorative bokeh circles -->
+  <circle cx="300" cy="200" r="180" fill="rgba(201,168,76,0.06)"/>
+  <circle cx="1600" cy="800" r="240" fill="rgba(201,168,76,0.05)"/>
+  <circle cx="960" cy="100" r="120" fill="rgba(201,168,76,0.04)"/>
+  <circle cx="200" cy="900" r="200" fill="rgba(201,168,76,0.04)"/>
+  <circle cx="1750" cy="200" r="150" fill="rgba(201,168,76,0.05)"/>
+  <!-- Center content -->
+  <text x="960" y="460" font-family="Georgia,serif" font-size="96" fill="rgba(240,224,168,0.25)" text-anchor="middle" font-weight="300" letter-spacing="8">Serfred &amp; Janelyn</text>
+  <rect x="860" y="490" width="200" height="1" fill="rgba(201,168,76,0.3)"/>
+  <text x="960" y="540" font-family="Georgia,serif" font-size="22" fill="rgba(201,168,76,0.35)" text-anchor="middle" letter-spacing="6">HERO PHOTO</text>
+  <text x="960" y="580" font-family="Arial,sans-serif" font-size="14" fill="rgba(201,168,76,0.2)" text-anchor="middle" letter-spacing="2">Replace with: assets/images/hero.jpg</text>
+</svg>
